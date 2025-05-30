@@ -1,0 +1,12 @@
+﻿apply_knight_outfit = {
+    owner = {
+        every_courtier = {
+            limit = { is_knight = yes }
+
+            if = {
+                limit = { is_female = no }
+                apply_barbershop_outfit_template = knight_war_outfit
+            }
+        }
+    }
+}

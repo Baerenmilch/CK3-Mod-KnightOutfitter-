@@ -1,0 +1,25 @@
+﻿namespace = knightoutfitter
+
+knightoutfitter.1 = {
+    #id = "knightoutfitter.1"
+    title = knightoutfitter.1.t
+    desc = knightoutfitter.1.desc
+	theme = martial
+	left_portrait = root
+	animation = marshal	
+    trigger = {
+        is_ai = no
+    }
+
+      option = {
+        name = knightoutfitter.1.option.call_armorsmith
+        effect = {
+            apply_knight_outfit = yes
+        }
+    }
+
+    option = {
+        name = knightoutfitter.1.option.nevermind
+            }
+}
+

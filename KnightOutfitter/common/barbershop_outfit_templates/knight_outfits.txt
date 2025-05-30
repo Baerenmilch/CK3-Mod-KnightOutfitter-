@@ -1,0 +1,12 @@
+﻿template = {
+    id = "knight_war_outfit"
+    name = "Knight War Outfit"
+    graphical_culture = western
+
+    clothing = "male_clothes_secular_western_nobility_02"
+    helmet = "male_headgear_secular_western_war_nobility_01"
+    cloak = "male_cloak_secular_western_nobility_01"
+    shoes = "male_legwear_secular_western_nobility_01"
+    legs = "male_legwear_secular_western_nobility_01"
+
+}
